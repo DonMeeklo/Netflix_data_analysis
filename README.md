@@ -1,3 +1,3 @@
 # Netflix movies and TV Shows data analysis 2025 using SQL
 
-![Netflix logo]()
+![Netflix logo](https://www.bing.com/images/search?view=detailV2&ccid=AzyfXt7K&id=63990BC63C64EF7CE6D65EEF9F5E82D2C3206B5C&thid=OIP.AzyfXt7KpJ1I41E4m1cRxQHaB_&mediaurl=https%3A%2F%2Fwww.techdaily.com.au%2Fb2%2Fwp-content%2Fuploads%2F2015%2F03%2FNetflix_Logo_Print_FourColorCMYK.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.033c9f5edecaa49d48e351389b5711c5%3Frik%3DXGsgw9KCXp%252fvXg%26pid%3DImgRaw%26r%3D0&exph=2333&expw=8685&q=netflix+logo&FORM=IRPRST&ck=8FF3C33FE97DC70F2076D22B790941B0&selectedIndex=10&itb=1&cw=1145&ch=535&ajaxhist=0&ajaxserp=0)
