@@ -1,1 +1,1 @@
-# Netflix_data_analysis
+# Netflix movies and TV Shows data analysis 2025 using SQL
